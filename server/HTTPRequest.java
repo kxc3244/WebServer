@@ -1,9 +1,5 @@
-/* Brandon Chase, 1001132518
- * 
- * Sources:
- * 		https://www.cs.bu.edu/fac/matta/Teaching/CS552/F99/proj4/ ~ Help with overall project design and implementation
- * 		https://docs.oracle.com/javase/tutorial/networking/sockets/readingWriting.html ~ Help with reading and writing to socket
- * 		https://docs.oracle.com/javase/tutorial/networking/sockets/clientServer.html ~ Help with setting up server sockets
+/* Kevin Chawla
+   1001543244
  * */
 
 package server;
